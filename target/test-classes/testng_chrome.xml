@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name ="Hitwe auto tests chrome" verbose="1">
+    <test name="SingUpAndUploadPhotoTest test (run in chrome)">
+        <parameter name="browser" value="CH"/>
+        <classes>
+            <class name="register.tests.SingUpAndUploadPhotoTest"/>
+        </classes>
+    </test>
+</suite>

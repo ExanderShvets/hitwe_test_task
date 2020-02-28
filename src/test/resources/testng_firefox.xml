@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name ="Hitwe auto tests firefox" verbose="1">
+    <test name="SingUpAndUploadPhotoTest test (run in firefox)">
+        <parameter name="browser" value="FF"/>
+        <classes>
+            <class name="register.tests.SingUpAndUploadPhotoTest"/>
+        </classes>
+    </test>
+</suite>

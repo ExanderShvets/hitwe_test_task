@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7bb297c-79dd-486f-96c3-451c89ecf3e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YMAw6g1Ht3oOMdVZ2rET5wRohc" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Automation\Repositories\comhitwe_auto_test\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Automation/Repositories/comhitwe_auto_test/src/test/resources/testng_all.xml">
+    <configuration name="D:/Automation/Repositories/comhitwe_auto_test/src/test/resources/testng_all.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comhitwe_auto_test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng_all.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Automation/Repositories/comhitwe_auto_test/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comhitwe_auto_test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingUpAndUploadPhotoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comhitwe_auto_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="register.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="register.tests" />
+      <option name="MAIN_CLASS_NAME" value="register.tests.SingUpAndUploadPhotoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingUpAndUploadPhotoTest.baseLineTest" type="TestNG" temporary="true">
+      <module name="comhitwe_auto_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SingUpAndUploadPhotoTest" />
+      <option name="METHOD_NAME" value="baseLineTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingUpAndUploadPhotoTest.singUpTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="comhitwe_auto_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="register.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="register.tests" />
+      <option name="MAIN_CLASS_NAME" value="register.tests.SingUpAndUploadPhotoTest" />
+      <option name="METHOD_NAME" value="singUpTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Automation/Repositories/comhitwe_auto_test/src/test/resources/testng_all.xml" />
+        <item itemvalue="TestNG.D:/Automation/Repositories/comhitwe_auto_test/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.SingUpAndUploadPhotoTest" />
+        <item itemvalue="TestNG.SingUpAndUploadPhotoTest.singUpTest" />
+        <item itemvalue="TestNG.SingUpAndUploadPhotoTest.baseLineTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7bb297c-79dd-486f-96c3-451c89ecf3e2" name="Default Changelist" comment="" />
+      <created>1582742324441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582742324441</updated>
+    </task>
+    <servers />
+  </component>
+</project>

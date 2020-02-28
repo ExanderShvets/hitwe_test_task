@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="allSuites">
+    <suite-files>
+        <suite-file path="testng_chrome.xml" />
+        <suite-file path="testng_firefox.xml" />
+    </suite-files>
+</suite>
